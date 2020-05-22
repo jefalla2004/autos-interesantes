@@ -1,0 +1,58 @@
+h2{
+	font-size: 30px
+}
+h1{
+	font-size: 50px
+}
+h3{
+	font-size:20px
+}
+h1 b{
+	color: red
+}
+body{
+	background: url(https://cdn.pixabay.com/photo/2015/07/30/16/34/road-867991_960_720.jpg);
+}
+body{
+	background-attachment: fixed;
+}
+body{
+	background-size:1500px 
+}
+div div h2{
+	font-size:40px
+}
+div div h2{
+	color: 0D3E99
+}
+a{
+	color: FF0123
+}
+p{
+	color: 5DFF01
+}
+img{
+	border-radius: 15px
+}
+
+
+.contenedor{
+	width: 80%
+}
+.contenedor{
+	max-width:3000px
+}
+.main{
+	width: 70%
+}
+.main img{
+	width: 100%
+	height:auto;
+}
+footer{
+	margin: 50px
+}
+footer{
+	color: white
+	font-style: 50px
+}
